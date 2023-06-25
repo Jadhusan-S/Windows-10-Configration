@@ -1,2 +1,2 @@
-# Windows-10-Configration
+# Windows-10-Administration
 Contributed Windows Administrations Networktute Organization 
