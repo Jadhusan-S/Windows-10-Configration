@@ -1,2 +1,2 @@
-# Windows-11-Administration
-Windows 11 Server-client Administrations To the Community
+# Windows-Server-Client-Administration
+Windows Server-Client Administrations To the Community
